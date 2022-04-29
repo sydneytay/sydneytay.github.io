@@ -61,7 +61,8 @@ img {
 }
 
 a {
-  color: #8a2846
+  color: #8a2846;
+}
 
 .wrapper {
     max-width: 1150px;
@@ -195,5 +196,4 @@ footer div {
     .description {
       font-size: 1.4em;
     }
-}
 }
